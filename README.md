@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sueyeon Yoon</h1>
 <h3 align="center">Raised in the US, living in Korea. Serving two cutest snooty pomeranians</h3>
-<div class="tenor-gif-embed" data-postid="19684211" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/code-coding-computer-gif-19684211"></a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div class="tenor-gif-embed" data-postid="19684211" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/code-coding-computer-gif-19684211" /a></div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lifeofsue&label=Profile%20views&color=0e75b6&style=flat" alt="lifeofsue" /> </p>
 
