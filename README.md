@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sueyeon Yoon</h1>
-<h3 align="center">Raised in the US, living in Korea. Serving two cutest snooty pomeranians.</h3>
+<h3 align="center">Raised in the US, living in Korea. Serving two cutest snooty Pomeranians.</h3>
 <img align="right" alt="HoneyMoney" width="350" src="https://lifeofsue.github.io/homepage/images/HonMon.jpeg"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lifeofsue&label=Profile%20views&color=0e75b6&style=flat" alt="lifeofsue" /> </p>
