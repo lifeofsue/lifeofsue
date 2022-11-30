@@ -36,7 +36,7 @@
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
  <p><a href="https://github.com/lifeofsue/github-readme-status">
-  <img align="center" height="145px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lifeofsue&layout=compact" />
+  <img align="center" height="145px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lifeofsue&layout=compact&theme=slateorange" />
 </a></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=lifeofsue&theme=slateorange" alt="lifeofsue" /></p>
