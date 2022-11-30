@@ -39,4 +39,4 @@
   <img align="center" height="145px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lifeofsue&layout=compact" />
 </a></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lifeofsue&" alt="lifeofsue" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=lifeofsue&theme=slateorange" alt="lifeofsue" /></p>
