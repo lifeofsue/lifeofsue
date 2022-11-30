@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sueyeon Yoon</h1>
 <h3 align="center">Raised in the US, living in Korea. Serving two cutest snooty Pomeranians.</h3>
- <div> <a href="https://github.com/lifeofsue/github-readme-status">
-  <img align="right" height="145px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lifeofsue&layout=compact" />
-</a>
-<img align="right" alt="HoneyMoney" width="350" src="https://lifeofsue.github.io/homepage/images/HonMon.jpeg"/></div>
+<img align="right" alt="HoneyMoney" width="350" src="https://lifeofsue.github.io/homepage/images/HonMon.jpeg"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lifeofsue&label=Profile%20views&color=0e75b6&style=flat" alt="lifeofsue" /> </p>
 
@@ -39,3 +36,6 @@
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lifeofsue&" alt="lifeofsue" /></p>
+ <a href="https://github.com/lifeofsue/github-readme-status">
+  <img align="center" height="145px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lifeofsue&layout=compact" />
+</a>
